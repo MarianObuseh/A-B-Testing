@@ -1,1 +1,2 @@
-# A-B-Testing
+# A/B Testing
+A/B tests are very commonly performed by data analysts and data scientists. It is important that I get some practice working with the difficulties of these concepts. In this project, I will be working to understand the results of an A/B test run on the website of a hypothetical e-commerce company. The goal is to help the company understand if they should roll out a new website homepage, keep the old homepage, or perhaps run the experiment longer to make their decision.
